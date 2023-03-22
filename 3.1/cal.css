@@ -1,0 +1,21 @@
+
+.q{
+    background-color: black;
+    color: white;
+    border: solid gray;
+    text-align: right;
+}
+.t{
+    border-collapse: 10px;
+}
+.c{
+    background-color: orangered;
+}
+.f{
+    border-collapse:  10px;
+    font-size: 100px;
+}
+table,td{
+    border: 1px solid gray;
+    border-collapse: collapse;
+}
